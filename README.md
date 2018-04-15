@@ -1,7 +1,9 @@
 # ForestPaper
 
 Title:Fuzzy difference and data primitives: a transparent approach for supporting different definitions of forest in the context of REDD+
+
 Authors: Alexis Comber & Werner Kuhn
+
 Geogr. Helv., 73, 1–13, 2018 https://doi.org/10.5194/gh-73-1-2018
 
 The code and data in the RMD file were used to create the latex file in Overleaf for submission
